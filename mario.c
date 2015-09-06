@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <cs50.h>
-
 /*
  ____      _                                             _
 |  _ \ ___| |__   ___  ___ __ _  _  ___     ___ ___   __| | ___
@@ -11,6 +8,8 @@
                           (╯°□°）╯︵ ┻━┻
   */
 
+#include <stdio.h>
+#include <cs50.h>
 
 int main(void)
 {

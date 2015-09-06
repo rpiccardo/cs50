@@ -1,7 +1,3 @@
-#include <stdio.h>
-#include <cs50.h>
-#include <math.h>
-
 /*
  ____      _                                             _
 |  _ \ ___| |__   ___  ___ __ _  _  ___     ___ ___   __| | ___
@@ -16,6 +12,9 @@ needed to give back the change the user asked for.
 
 */
 
+#include <stdio.h>
+#include <cs50.h>
+#include <math.h>
 
 int main(void)
 {
