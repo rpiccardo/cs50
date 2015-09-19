@@ -1,0 +1,30 @@
+REBECA PICCARDO
+
+CS50xMiami Project
+
+
+Like Pset7, my website has a login, logout and register controllers, 
+and usernames and passwords are stored in a table called users 
+in a mysql database called project.
+
+After login/register, the user has a drop-down menu with names of different 
+public agencies in Miami-Dade County. When a name is selected, a table appears 
+with all the contact information for that agency.
+
+The two controllers are index.php and search.php and the 
+two templates displayed are sidebar.php and main.php.
+
+The data is stored in the pio table in the project.sql database.
+
+The last feature sends a text message to the user with the 
+phone number to the agency of their choosing.
+
+Text.php is the controller and text_form.php is the form the user fills out with
+their phone number, carrier and select the agency they want the number for.
+
+The end.
+
+
+
+
+
